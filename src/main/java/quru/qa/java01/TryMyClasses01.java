@@ -1,8 +1,8 @@
-package quru.qa;
+package quru.qa.java01;
 
-public class tryMyClasses {
+public class TryMyClasses01 {
 
-    public static void main(String[] args) {
+    public static void tryCandyClass() {
 
         Candy candy1 = new Candy("Fererro", "Raffaello", 1426.70, 30);
         System.out.println(candy1.getInformation());
@@ -14,7 +14,9 @@ public class tryMyClasses {
         System.out.println(candy1.getInformation());
         System.out.println(candy1.buyProduct(0.45));
         System.out.println(candy1.getInformation());
+    }
 
+    public static void tryCarClass() {
         Car car1 = new Car("BMW", "X5", 7250000, 5);
         System.out.println("\n\n" + car1.getInformation());
         car1.addProduct(3);
@@ -24,7 +26,6 @@ public class tryMyClasses {
         car1.addYear("2020");
         System.out.println(car1.buyProduct(1));
         System.out.println(car1.getInformation());
-
 
     }
 }

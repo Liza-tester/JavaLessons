@@ -1,4 +1,4 @@
-package quru.qa;
+package quru.qa.java01;
 
 import static java.lang.Math.round;
 

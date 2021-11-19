@@ -1,4 +1,4 @@
-package quru.qa;
+package quru.qa.java01;
 
 public class Car extends Product {
 
