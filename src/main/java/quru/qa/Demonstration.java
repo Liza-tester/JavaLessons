@@ -12,5 +12,8 @@ public class Demonstration {
 
         // ДЗ по лекции "Дополнительное занятие «Основы Java - продолжение»"
         TryMyClasses02.tryHouseClass();
+
+        int a = 5;
+        System.out.println(a);
     }
 }
