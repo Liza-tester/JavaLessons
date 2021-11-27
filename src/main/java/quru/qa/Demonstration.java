@@ -13,9 +13,9 @@ public class Demonstration {
         // ДЗ по лекции "Дополнительное занятие «Основы Java - продолжение»"
         TryMyClasses02.tryHouseClass();*/
 
-        int a = 5,
-                b= 7;
-        System.out.println("a = "+a+", b = "+b);
+        int a = 3,
+                b = 8;
+        System.out.println("a + b = " + (a + b));
 
     }
 }
