@@ -14,8 +14,9 @@ public class Demonstration {
         TryMyClasses02.tryHouseClass();*/
 
         int a = 3,
-                b = 8;
+                b = 9;
         System.out.println("a + b = " + (a + b));
 
     }
 }
+
